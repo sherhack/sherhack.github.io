@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #Sherhack Holmes
 
 [Link to my Github](https://github.com/sherhack).
