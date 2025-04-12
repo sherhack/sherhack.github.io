@@ -9,7 +9,7 @@ layout: default
 ## Mouse Clicker/Logger
 Automates clicking, mimicking users own input.
 
-Currently using python3
+Currently using python3:
 
 [Link for code](https://github.com/sherhack/mouse-scripter).
 
