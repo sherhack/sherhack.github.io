@@ -25,4 +25,4 @@ Feel free to give suggestions for improvements/ideas
 ## Support
 I appreciate any support.
   
-[Buy me a Coffe☕](buymeacoffee.com/sherhack).
+[Buy me a Coffe☕](https://buymeacoffee.com/sherhack).
